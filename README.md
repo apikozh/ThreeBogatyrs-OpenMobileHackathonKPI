@@ -1,2 +1,2 @@
-ThreeHeroes-OpenMobileHackathonKPI
+ThreeBogatyrs-OpenMobileHackathonKPI
 ==================================
